@@ -1,0 +1,9 @@
+POST  http://localhost:3001/authenticate
+Content-Type: application/json
+
+{
+    "username": "naks"
+}
+
+# 28ecd8b9-a398-4107-89cb-1fa2aa267509 - project id
+# 257b1059-c7f3-4ec8-afb2-1b60896658eb - private key
